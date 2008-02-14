@@ -1,0 +1,4 @@
+category: Lua Net
+requires: cygwin lua libcurl4
+sdesc: "Lua cURL bindings"
+ldesc: "Lua-cURL adapts	the easy, multi, and shared interfaces of cURL to Lua."

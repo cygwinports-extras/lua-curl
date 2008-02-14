@@ -1,0 +1,5 @@
+inherit lua
+
+DESCRIPTION="Lua cURL bindings"
+HOMEPAGE="http://lua-curl.luaforge.net/"
+SRC_URI="http://luaforge.net/frs/download.php/2634/${P}.tar.gz"
